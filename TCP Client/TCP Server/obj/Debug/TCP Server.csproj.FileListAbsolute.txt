@@ -1,0 +1,27 @@
+G:\TCP Client\TCP Server\bin\Debug\TCP Server.exe.config
+G:\TCP Client\TCP Server\bin\Debug\TCP Server.exe
+G:\TCP Client\TCP Server\bin\Debug\TCP Server.pdb
+G:\TCP Client\TCP Server\bin\Debug\SuperSimpleTcp.dll
+G:\TCP Client\TCP Server\bin\Debug\SuperSimpleTcp.xml
+G:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.AssemblyReference.cache
+G:\TCP Client\TCP Server\obj\Debug\TCP_Server.TCPServer.resources
+G:\TCP Client\TCP Server\obj\Debug\TCP_Server.Properties.Resources.resources
+G:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.GenerateResource.cache
+G:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.CoreCompileInputs.cache
+G:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.Up2Date
+G:\TCP Client\TCP Server\obj\Debug\TCP Server.exe
+G:\TCP Client\TCP Server\obj\Debug\TCP Server.pdb
+G:\TCP Client\TCP Server\obj\Debug\TCP Server.exe.config
+E:\TCP Client\TCP Server\bin\Debug\TCP Server.exe.config
+E:\TCP Client\TCP Server\bin\Debug\TCP Server.exe
+E:\TCP Client\TCP Server\bin\Debug\TCP Server.pdb
+E:\TCP Client\TCP Server\bin\Debug\SuperSimpleTcp.dll
+E:\TCP Client\TCP Server\bin\Debug\SuperSimpleTcp.xml
+E:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.AssemblyReference.cache
+E:\TCP Client\TCP Server\obj\Debug\TCP_Server.TCPServer.resources
+E:\TCP Client\TCP Server\obj\Debug\TCP_Server.Properties.Resources.resources
+E:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.GenerateResource.cache
+E:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.CoreCompileInputs.cache
+E:\TCP Client\TCP Server\obj\Debug\TCP Server.csproj.Up2Date
+E:\TCP Client\TCP Server\obj\Debug\TCP Server.exe
+E:\TCP Client\TCP Server\obj\Debug\TCP Server.pdb

@@ -1,0 +1,28 @@
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\bin\Debug\SuperSimpleTcp.xml
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.Up2Date
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP Client.exe.config
+C:\Users\Kelvin\source\repos\TCP Client\TCP Client\obj\Debug\TCP_Client.TCPClient.resources
+G:\TCP Client\TCP Client\bin\Debug\TCP Client.exe.config
+G:\TCP Client\TCP Client\bin\Debug\TCP Client.exe
+G:\TCP Client\TCP Client\bin\Debug\TCP Client.pdb
+G:\TCP Client\TCP Client\bin\Debug\SuperSimpleTcp.dll
+G:\TCP Client\TCP Client\bin\Debug\SuperSimpleTcp.xml
+G:\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+G:\TCP Client\TCP Client\obj\Debug\TCP_Client.TCPClient.resources
+G:\TCP Client\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+G:\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+G:\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+G:\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.Up2Date
+G:\TCP Client\TCP Client\obj\Debug\TCP Client.exe
+G:\TCP Client\TCP Client\obj\Debug\TCP Client.pdb
+G:\TCP Client\TCP Client\obj\Debug\TCP Client.exe.config
