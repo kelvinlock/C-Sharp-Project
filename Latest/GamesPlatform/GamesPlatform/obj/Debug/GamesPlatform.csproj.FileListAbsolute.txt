@@ -1,0 +1,12 @@
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\bin\Debug\GamesPlatform.exe.config
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\bin\Debug\GamesPlatform.exe
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.csproj.AssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.exe.config
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.CreateAccount.resources
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.GamePlatform.resources
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.Properties.Resources.resources
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.UpdatePassword.resources
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.csproj.GenerateResource.cache
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.exe
+C:\Users\Kelvin\OneDrive\Desktop\Latest\GamesPlatform\GamesPlatform\obj\Debug\GamesPlatform.pdb
